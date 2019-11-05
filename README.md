@@ -440,7 +440,6 @@ $dompdf-&gt;stream("saida.pdf");
 <div class="outline-text-3" id="text-1-6">
 <p>
 Crie uma página que recebe o nome do usuário e um valor, imprima em um pdf com o nome do usuário (exemplo: fulano.pdf) a tabuada do número selecionado.
-dastre ao menos 5 usuários antes.
 </p>
 </div>
 </div>
